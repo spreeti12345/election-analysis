@@ -31,9 +31,9 @@ Raymon Anthony Doane got only 3.1% or 11,606
 Clearly the Winner is Diana DeGette leading with 272,892 votes and a percentage of 73.8% of popular votes  
 
 ## Challenge Overview
-https://github.com/spreeti12345/election-analysis/commit/e0d9b621c8028573056f6888ef11a62501d9e29e
+https://github.com/spreeti12345/election-analysis/commit/e0d9b621c8028573056f6888ef11a62501d9e29e  
 
-##Challenge Summary  
+## Challenge Summary  
 
 The challenge was to create a python code for getting the total number of votes, the names of the candidates involved and the outcome of the voting data. 
 
