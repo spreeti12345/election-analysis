@@ -40,14 +40,16 @@ Raymon Anthony Doane got only 3.1% or 11,606
 Clearly the Winner is Diana DeGette leading with 272,892 votes and a percentage of 73.8% of popular votes  
 
 ## Challenge Overview
-https://github.com/spreeti12345/election-analysis/commit/e0d9b621c8028573056f6888ef11a62501d9e29e  
+https://github.com/spreeti12345/election-analysis 
 
-## Challenge Summary  
+## Election-Audit Summary
+Using python the code can be modified and used to find wining voter turn out only instead of county name
+If you modify line 116 to largest voter turnout and change " winning_county" to voter turnout
 
-The challenge was to create a python code for getting the total number of votes, the names of the candidates involved and the outcome of the voting data. 
+It can also be used for cleaning out the data and have information about 1 county or 1 candidate.
+after .get(county_name) another code can be added to state.remove(candidate_name)  
 
-During this experience of learning python, understanding the importance of "",(),{} and indentation was important. There are multiple lines with extra spacing in the code to make it neat and clear. It required understanding of some basic coding skills. The overall outcome was clear and concise .  
-Overall outcomes show a winner, with % of votes to 1 decimal after and the number of votes. 
+
 
 
 
