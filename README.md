@@ -7,9 +7,9 @@ A Colorado employee gave me the following tasks to complete an election audit of
 
 1.Calculate total number of votes cast  
 2.Breakdown of number of votes and percentage by County
-3.Determine largest turnout votes by county
-4.Get a complete list of candidate votes 
-5.Calculate the total votes each candidate received  
+3.Determine largest turnout votes by county  
+4.Get a complete list of candidate votes   
+5.Calculate the total votes each candidate received    
 6.Calculate the percentage of votes each candidate won  
 7.Determine the winner based on popular vote  
 
@@ -21,12 +21,12 @@ A Colorado employee gave me the following tasks to complete an election audit of
 
 Total Votes: 369,711 were cast
 
-County Votes:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+County Votes:  
+Jefferson: 10.5% (38,855)  
+Denver: 82.8% (306,055)  
+Arapahoe: 6.7% (24,801)  
  
-Largest county Turnout : Denver 
+Largest county Turnout : Denver   
 
 The Candidates were  
 Charles Casper Stockham  
