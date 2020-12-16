@@ -6,10 +6,12 @@ python
 A Colorado employee gave me the following tasks to complete an election audit of the recent local congression election 
 
 1.Calculate total number of votes cast  
-2.Get a complete list of candidate votes  
-3.Calculate the total votes each candidate received  
-4.Calculate the percentage of votes each candidate won  
-5.Determine the winner based on popular vote  
+2.Breakdown of number of votes and percentage by County
+3.Determine largest turnout votes by county
+4.Get a complete list of candidate votes 
+5.Calculate the total votes each candidate received  
+6.Calculate the percentage of votes each candidate won  
+7.Determine the winner based on popular vote  
 
 ## Resources
 -Data source= election_results.csv
@@ -18,6 +20,13 @@ A Colorado employee gave me the following tasks to complete an election audit of
 ## Summary
 
 Total Votes: 369,711 were cast
+
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+ 
+Largest county Turnout : Denver 
 
 The Candidates were  
 Charles Casper Stockham  
